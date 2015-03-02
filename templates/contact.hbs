@@ -8,7 +8,8 @@
     </ul>
 
     {{#if messageSent}}
-      <p>Thank you. Your message has been sent.</p>
+      <p>Thank you. Your message has been sent.
+        Your confirmation number is {{confirmationNumber}}.</p>
     {{else}}
       <p>Or, <a href="#" {{action 'sendMessage'}}>Click here</a> to send a secret message.</p>
     {{/if}}
