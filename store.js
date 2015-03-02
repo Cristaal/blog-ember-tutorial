@@ -15,6 +15,7 @@ var posts = [
     body: "Thou shalt not steal."
   }
 ];
+
 var comments = [
   {
     id: '1',
