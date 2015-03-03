@@ -1,10 +1,5 @@
 var posts = [
   {
-    id: '1',
-    title: "I love blood",
-    body: "You know it."
-  },
-  {
     id: '2',
     title: "The Count",
     body: "One! Ah ah ah ah ah!"
@@ -13,6 +8,11 @@ var posts = [
     id: '3',
     title: "Thievery",
     body: "Thou shalt not steal."
+  },
+  {
+    id: '1',
+    title: "I love blood",
+    body: "You know it."
   }
 ];
 
