@@ -76,8 +76,7 @@
       },
 
       /**
-      * This is exactly the same as extractSingle, but used in an array.
-      *
+        function recordMatchesQuery(record) {
       * @method extractSingle
       * @private
       * @param {DS.Store} store the returned store
